@@ -1,0 +1,14 @@
+const SignUp = 'SignUp';
+const Login = 'Login';
+const Home = 'Home';
+const AuthLoading = 'AuthLoading';
+const info = 'info';
+const math = 'math';
+const lite = 'lite';
+const eng = 'eng';
+const addques = 'addques';
+const listques = 'listques';
+const charts = 'charts';
+const changePass = 'changePass';
+const result = 'result';
+export { SignUp, Login, Home, AuthLoading, info, math, lite, eng, addques, listques, charts, changePass, result };
